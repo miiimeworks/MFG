@@ -15,7 +15,7 @@ allowing empty folders to be tracked and committed to GitHub.
 일괄 생성하거나 제거하는 소형 GUI 유틸리티.
 
 <br>
-<img width="559" height="136" alt="001" src="https://github.com/miiimeworks/MFG_Dev/blob/main/Preview/20260417_214629.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="501" height="214" alt="001" src="https://github.com/miiimeworks/MFG_Dev/blob/main/Preview/20260417_214629.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
 ---
