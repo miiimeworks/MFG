@@ -14,6 +14,10 @@ allowing empty folders to be tracked and committed to GitHub.
 빈 폴더를 GitHub에 커밋할 수 있도록 디렉토리 트리 전체에 플레이스홀더 파일(예: `.gitkeep`)을  
 일괄 생성하거나 제거하는 소형 GUI 유틸리티.
 
+<br>
+<img width="559" height="136" alt="001" src="https://github.com/miiimeworks/MFG_Dev/blob/main/Preview/20260417_214629.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
+<br>
+
 ---
 
 ## Features / 기능
@@ -89,7 +93,7 @@ Loc/
 
 ## 🛡️ Security & Anti-virus Info
 
-### https://www.virustotal.com/gui/file/bba6c594cf7e548390636543d8b8829a2f05eb1f8d775384580087bc808974bb?nocache=1
+### [✅ VirusTotal Analysis Report](https://www.virustotal.com/gui/file/bba6c594cf7e548390636543d8b8829a2f05eb1f8d775384580087bc808974bb?nocache=1)
 
 | Status             | Details                                                                        |
 |:------------------ |:------------------------------------------------------------------------------ |
