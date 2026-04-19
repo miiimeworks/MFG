@@ -7,8 +7,7 @@ A small GUI utility that batch-creates or removes placeholder files
 tracked and committed to GitHub.
 
 빈 폴더를 GitHub에 커밋할 수 있도록 디렉토리 트리 전체에
-플레이스홀더 파일(예: .gitkeep)을 일괄 생성하거나 제거하는
-소형 GUI 유틸리티.
+플레이스홀더 파일(예: .gitkeep)을 일괄 생성하거나 제거합니다. 
 
 ========================================================================
 [Features / 기능]
