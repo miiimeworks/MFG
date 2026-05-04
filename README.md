@@ -1,4 +1,4 @@
-# MIIIME File Generator (MFG)
+# MIIIME File Generator (MFG™)
 
 MIIIMEFileGenerator · 미메파일제네레이터<br>
 
@@ -10,9 +10,11 @@ MIIIMEFileGenerator · 미메파일제네레이터<br>
 <img width="559" height="136" alt="001" src="https://github.com/miiimeworks/M4T/blob/main/4bit_Enhanced/Id/Neon/4b_136_1_G.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
 <br>
 
-MIIIMEFileGenerator batch creates or removes placeholder files (e.g. `.gitkeep`) throughout the directory tree so that empty folders can be committed to GitHub.
+Batch create or remove placeholder files (e.g. `.gitkeep`) in empty folders in the directory tree.  
+A tool that helps you commit empty folders to GitHub.
 
-미메파일제네레이터는 빈 폴더를 GitHub에 커밋할 수 있도록 디렉토리 트리 전체에 플레이스홀더 파일(예: `.gitkeep`)을 일괄 생성하거나 제거합니다.
+디렉토리 트리의 빈 폴더에 플레이스홀더 파일(예: `.gitkeep`)을 일괄 생성하거나 제거합니다.  
+GitHub에 빈 폴더를 커밋할 수 있도록 돕는 도구입니다.
 
 <br>
 <img width="501" height="214" alt="001" src="https://github.com/miiimeworks/MFG/blob/main/Preview/20260417_214629.png?raw=true" style="margin-top: 20px; margin-bottom: 20px;">
